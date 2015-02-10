@@ -14,5 +14,8 @@
     "open_files_in_new_window": false,
     "show_encoding": true,
     "translate_tabs_to_spaces": true,
-    "trim_trailing_white_space_on_save": true
+    "trim_trailing_white_space_on_save": true,
+    "draw_minimap_border": true,
+    "always_show_minimap_viewport": true,
+    "rulers": [80, 100]
 }
